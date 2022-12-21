@@ -94,6 +94,4 @@ public class Account {
     Web 으로 받을지 여부
   */
   private boolean studyUpdatedByWeb;
-
-  private int n1;
 }
