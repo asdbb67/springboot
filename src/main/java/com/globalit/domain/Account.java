@@ -95,4 +95,5 @@ public class Account {
   */
   private boolean studyUpdatedByWeb;
 
+  private int n1;
 }
